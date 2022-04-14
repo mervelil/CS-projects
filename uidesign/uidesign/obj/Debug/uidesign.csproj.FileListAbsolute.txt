@@ -1,0 +1,11 @@
+C:\Users\merve çelik\source\repos\uidesign\uidesign\bin\Debug\uidesign.exe.config
+C:\Users\merve çelik\source\repos\uidesign\uidesign\bin\Debug\uidesign.exe
+C:\Users\merve çelik\source\repos\uidesign\uidesign\bin\Debug\uidesign.pdb
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.csproj.AssemblyReference.cache
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.Form1.resources
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.Properties.Resources.resources
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.csproj.GenerateResource.cache
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.csproj.CoreCompileInputs.cache
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.exe
+C:\Users\merve çelik\source\repos\uidesign\uidesign\obj\Debug\uidesign.pdb
